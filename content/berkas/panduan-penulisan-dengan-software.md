@@ -1,3 +1,14 @@
+---
+title: Panduan Penulisan dengan Software
+description:
+permalink: panduan-penulisan-dengan-software
+aliases:
+tags:
+socialImage:
+socialDescription:
+date: 2026-07-11
+draft: false
+---
 # Panduan Penulisan Dengan Software
 
 Panduan ini disusun oleh tim LTN pada 6 Juli 2026. 
