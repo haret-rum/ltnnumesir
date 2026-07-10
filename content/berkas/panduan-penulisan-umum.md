@@ -38,7 +38,7 @@ Rincian format pengetikan dapat dijelaskan sebagaimana berikut ini:
 Ditulis dalam font EB Garamond 18 pt, Bold, dan di tengah halaman. Judul makalah harus dapat menggambarkan objek dan ruang lingkup yang akan dibahas dan usahakan tidak lebih dari 8 kata.
 
 > [!info]
-> Download font EB Garamond [disini](https://fonts.google.com/specimen/EB+Garamond).
+> Download font EB Garamond [di sini](https://fonts.google.com/specimen/EB+Garamond).
 
 <p style="text-align: center; font-style: italic; font-size: 12pt;">[Nama Penulis 1] dan [Nama Penulis 2]<br/>
 [nama fakultas, nama universitas penullis 1]<br/>
