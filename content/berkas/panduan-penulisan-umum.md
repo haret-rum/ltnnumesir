@@ -88,7 +88,7 @@ Daftar pustaka mengikuti ketentuan dalam *Chicago Style 17th (notes-bibliography
     Daftar pustaka ditulis dalam font EB Garamond 12 pt, rata kiri, menjorok ke dalam di baris setelah pertama, spasi 1.15, tanpa tambahan spasi <i>(remove before and after paragraph).</i>
 </p>
 
-<p style="font-size: 10pt; text-align: left;"> [^1]: Catatan kaki menggunakan font EB Garamond 10, rata kiri (align left), spasi 1.0. Catatan kaki ditulis berdasarkan kaidah Chicago Style 17th (notes-bibliography).</p>
+<p style="font-size: 10pt; text-align: left;"> <sub>1</sub> Catatan kaki menggunakan font EB Garamond 10, rata kiri (align left), spasi 1.0. Catatan kaki ditulis berdasarkan kaidah Chicago Style 17th (notes-bibliography).</p>
 
 ## Transliterasi Dan Transkripsi
 
