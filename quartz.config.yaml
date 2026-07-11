@@ -18,7 +18,7 @@ configuration:
     typography:
       header: Roboto Slab
       body: Nunito
-      code: IBM Plex Mono
+      code: Cutive Mono
       title: DM Sans
       interface: Sen
     colors:

@@ -188,7 +188,7 @@ Pada kotak dialog yang muncul tentukan citation style yang baru kemudian klik `O
 
 ### Menambahkan Daftar Pustaka
 
-klik `insert bibliography` pada toolbar.
+klik `add bibliography` pada toolbar.
 
 ![](Screenshot%20(138).png)
 
