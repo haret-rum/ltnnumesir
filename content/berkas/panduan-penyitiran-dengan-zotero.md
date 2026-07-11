@@ -20,7 +20,7 @@ Pertama, unduh aplikasi Zotero melalui link [berikut](https://www.zotero.org/dow
 
 ![](Screenshot%20(120).png)
 
-Sebagai pelengkap dan alat memudahkan memindah referensi dari peramban yang digunakan (chrome, firefox, safari) dapat diinstall juga Zotero connector.
+Sebagai pelengkap dan alat memudahkan memindah referensi dari peramban yang digunakan (chrome, firefox, safari) dapat diinstall juga Zotero Connector.
 
 ## Interface Zotero
 
@@ -48,11 +48,11 @@ Kemudian tambahkan informasi di kolom-kolom yang tersedia di panel kanan.
 
 ![](Screenshot%20(124).png)
 
-Tekan tombol `enter` dan referensi yang baru saja ditambahkan akan muncul di panel tengah.
+Tekan tombol `enter` maka referensi yang baru saja ditambahkan akan muncul di panel tengah.
 
 ### 2. Menambahkan Referensi dari Internet
 
-Pertama, buka peramban di desktop lalu tulis alamat di search engine yang hendak ditambahkan sebagai referensi. Dalam contoh berikut ini adalah situs google books dengan judul "colonial capitalism".
+Pertama, buka peramban di desktop lalu tulis alamat di search engine yang hendak ditambahkan sebagai referensi. Dalam contoh berikut ini adalah situs google books dengan judul "Colonial Capitalism".
 
 ![](Screenshot%20(160).png)
 
@@ -62,7 +62,7 @@ Kemudian klik `Create citation` dalam kolom informasi buku tersebut dan pilih fo
 
 ![](Screenshot%20(162).png)
 
-jika Zotero connector terpasang di peramban, maka segera muncul *pop-up* secara otomatis di pojok kanan atas peramban. 
+jika Zotero Connector terpasang di peramban, maka segera muncul *pop-up* secara otomatis di pojok kanan atas peramban. 
 
 ![](Screenshot%20(164).png)
 
@@ -90,7 +90,7 @@ Setelah itu tekan tombol `lanjut` maka referensi baru tadi akan ditambahkan.
 
 ### 3. Menambahkan Referensi dari File PDF
 
-Buka file explorer, kemudian seret file yang hendak dijadikan referensi ke aplikasi Zotero.
+Buka File Explorer kemduian cari file yang dimaksud. Setelah itu seret file yang hendak dijadikan referensi ke aplikasi Zotero.
 
 ![](Screenshot%20(168).png)
 
@@ -116,7 +116,7 @@ Referensi baru akan segera masuk dalam daftar referensi dan detail referensi aka
 
 ## Mengelola Referensi
 
-Zotero ibaratnya adalah perpustakaan digital di dalam desktop. Setiap informasi dari referensi yang ditambahkan tersedia di dalam aplikasi Zotero. Zotero juga menyediakan fasilitas untuk mengatur pengelompokan referensi-referensi sesuai kategori yang dibutuhkan.
+Zotero ibarat perpustakaan digital di dalam desktop. Setiap informasi dari referensi yang ditambahkan akan tersedia di dalam aplikasi Zotero. Zotero juga menyediakan fasilitas untuk mengatur pengelompokan referensi-referensi sesuai kategori yang dibutuhkan.
 
 Pengelompokan ini dapat dilakukan dengan langkah berikut.
 
@@ -132,7 +132,7 @@ kemudian pada *pop-up* yang baru saja muncul, masukkan nama sesuai dengan katego
 
 ![](Screenshot%20(127).png)
 
-Pindahkan artikel pada koleksi umum dengan memilihnya kemudian menyeretnya ke folder baru yang sudah dibuat di panel kiri.
+Pindahkan referensi pada koleksi umum dengan memilihnya kemudian menyeretnya ke folder yang baru saja dibuat di panel kiri.
 
 ### Mencari Referensi
 
@@ -144,9 +144,9 @@ Panel tengah akan menampilkan daftar referensi sesuai dengan kata kunci yang dim
 
 ## Membuat Sitiran dan Daftar Pustaka
 
-Begitu aplikasi Zotero telah terinstall di desktop, ia akan secara otomatis menginstall *word processor* yang terintegrasi dengan MS Word dan LibreOffice.
+Begitu aplikasi Zotero telah terinstall di desktop, ia akan secara otomatis menginstall *Word Processor* yang terintegrasi dengan MS Word dan LibreOffice.
 
-Dalam hal ini contohnya adalah LIbreOffice
+Dalam hal ini contohnya adalah LibreOffice
 
 ### Menambahkan Sitiran ke LibreOffice
 
@@ -158,27 +158,27 @@ kemudian tekan tombol `add/edit citation` pada toolbar atas LibreOffice.
 
 ![](Screenshot%20(131)-1.png)
 
-Langkah kemudian tentukan terlebih dahulu *citation style* yang akan digunakan dalam naskah (misal Chicago Style 17 notes-bibliography) lalu klik `OK`. Langkah ini hanya dilakukan cukup satu kali saja.
+Setelah itu, tentukan terlebih dahulu *citation style* yang akan digunakan dalam naskah (misal Chicago Style 17 notes-bibliography) lalu klik `OK`. Langkah ini hanya dilakukan cukup satu kali saja.
 
 ![](Screenshot%20(133).png)
 
-Setelah itu muncul kotak dialog dari Zotero, kemudian klik referensi yang akan digunakan. 
+Maka akan muncul kotak dialog dari Zotero. Masukkan nama buku atau penulis, kemudian klik referensi yang akan digunakan. 
 
 ![](Screenshot%20(135).png)
 
 ![](Screenshot%20(136).png)
 
-Dari situ dapat ditambahkan pula halaman dengan memasukkan angka secara langsung, kemudian tekan tombol `enter`.
+Dari situ dapat ditambahkan pula nomor halaman referensi dengan memasukkan angka secara langsung, kemudian tekan tombol `enter`.
 
 ![](Screenshot%20(137).png)
 
-Jika hendak menambahkan lebih dari satu referensi, cari kembali dalam kotak dialog yang sama referensi tambahannya dan masukkan pula halamannya. Kemudian tekan tombol `enter`.
+Jika hendak menambahkan lebih dari satu referensi, cari kembali dalam kotak dialog yang sama referensi lainnya dan masukkan pula halamannya. Kemudian tekan tombol `enter`.
 
 Sitasi akan secara otomatis ditambahkan.
 
 ### Mengubah Citation Style
 
-Zotero memampukan juga untuk perubahan gaya penyitiran di LibreOffice. Itu dapat dilakukan dengan klik `document preferences`di toolbar atas.
+Zotero memampukan juga untuk perubahan gaya penyitiran di LibreOffice secara serentak. Itu dapat dilakukan dengan klik `document preferences`di toolbar atas.
 
 ![](Screenshot%20(140).png)
 

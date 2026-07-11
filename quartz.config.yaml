@@ -18,15 +18,15 @@ configuration:
     typography:
       header: Roboto Slab
       body: Nunito
-      code: Cutive Mono
+      code: Atkinson Hyperlegible Mono
       title: DM Sans
       interface: Sen
     colors:
       lightMode:
         light: "#faf8f8"
         lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
+        gray: "#CCCCC"
+        darkgray: "#C2C2C2"
         dark: "#6b9080"
         secondary: "#6b9080"
         tertiary: "#A4C3B2"

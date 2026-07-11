@@ -35,10 +35,8 @@ Tentang bagaimana mengelola sitiran, kutipan dan referensi dengan Zotero dapat d
 >
 > 1. Husain Muruwwah, *Al-Nazʿāt al-Māddiyah fī al-Falsafah al-ʿArabiyah al-Islāmiyah*, 2 ed., vol. 1 (Beirut: Dār al-Fārābī, 2008), 55-59.
 > 2. *Husain Muruwwah*, 72.
-> 3. Muhammad Abid al-Jabiri, *Naḥnu wa al-Turāts* (Beirut: Dār
-> al-Tanwīr li al-Thibāʿah wa al-Nasyr, 1985), 11-12.
-> 4. Husain Muruwwah, *Al-Nazʿāt al-Māddiyah fī al-Falsafah
-> al-ʿArabiyah al-Islāmiyah*, 1, 78.
+> 3. Muhammad Abid al-Jabiri, *Naḥnu wa al-Turāts* (Beirut: Dār al-Tanwīr li al-Thibāʿah wa al-Nasyr, 1985), 11-12.
+> 4. Husain Muruwwah, *Al-Nazʿāt al-Māddiyah fī al-Falsafah al-ʿArabiyah al-Islāmiyah*, 1, 78.
 
 ### Buku
 

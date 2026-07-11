@@ -34,7 +34,7 @@ Untuk menuliskannya di desktop akan lebih mudah dengan dua cara berikut ini:
 
 ### Diakritik Menggunakan WinCompose
 
-Pertama untuk menggunakan WinCompose harus melakukan instalasi terlebih dahulu yang dapat diunduh [di sini](https://WinCompose.info/).
+Untuk menggunakan WinCompose, pertama install WinCompose terlebih dahulu. Dapat diunduh [di sini](https://WinCompose.info/).
 
 ![](Screenshot%20(121).png)
 
@@ -42,13 +42,13 @@ Kedua, jika WinCompose telah terinstall ia akan otomatis muncul di *system tray*
 
 ![](Screenshot%20(114).png)
 
-WinCompose memungkinkan user untuk menuliskan huruf-huruf berdiakritik lewat komposisi tombol keyboard. Misalnya dalam penulisan ā dapat dilakukan dengan menekan tombol 
+WinCompose memungkinkan pengetikan huruf-huruf berdiakritik lewat komposisi tombol keyboard. Misalnya dalam penulisan ā dapat dilakukan dengan menekan tombol: 
 
 `alt (kanan) + a + -` 
 
 ![](Screenshot%20(115).png)
 
-Tombol `alt (kanan)` dapat diganti dengan tombol apa pun lainnya dengan mengubahnya dengan klik kanan aplikasi WinCompose yang aktif di system tray kemudian klik `options`.
+Tombol `alt (kanan)` yang menjadi *compose key* dapat diganti dengan tombol apa pun dengan mengubahnya dengan klik kanan aplikasi WinCompose yang aktif di system tray kemudian klik `options`.
 
 ![](Screenshot%20(118).png)
 
@@ -80,7 +80,7 @@ berbeda dengan penulisan melalui jalur kedua, yaitu melalui MS Word, setiap tomb
 
 ### Diakritik Menggunakan MS Word
 
-Untuk menulis diakritik dengan MS Word, pertama buka terlebih dahulu aplikasi MS Word.
+Untuk menulis diakritik dengan MS Word (tanpa WinCompose), pertama buka terlebih dahulu aplikasi MS Word.
 
 ![](Screenshot%20(142).png)
 

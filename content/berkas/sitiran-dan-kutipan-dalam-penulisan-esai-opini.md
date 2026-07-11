@@ -28,7 +28,7 @@ Tentang bagaimana mengelola sitiran, kutipan dan referensi dengan Zotero dapat d
 
 Penulisan esai dalam format pengetikannya tidak berbeda dengan format pengetikan makalah. Perbedaan keduanya hanya menyangkut penulisan sitiran dan daftar pustakanya saja. Berikut adalah ketentuan penulisan sitiran dalam esai/opini:
 
-- Penulisan sitasi dan rujukan dalam esai/opini dilakukan dengan **catatan perut** menggunakan model *APA Style 7th* untuk pengutipan, catatan perut ,dan daftar pustaka.
+- Penulisan sitasi dan rujukan dalam esai/opini dilakukan di **catatan perut** menggunakan model *APA Style 7th* untuk pengutipan, catatan perut ,dan daftar pustaka.
 - Sangat dianjurkan menggunakan perangkat lunak *(software)* pengelola kutipan dan referensi, seperti: Mendeley, Zotero, dan Endnote (atau cukup dengan fitur sitasi word) untuk membuat catatan perut dan daftar pustaka.
 - Perlu dicatat bahwa, untuk keperluan kutipan dan bibliografi, nama, judul, penerbit, nama lembaga harus tetap menggunakan bahasa aslinya dan bahasa resminya. Tidak perlu menerjemahkan nama/gelar/institusi dari Bahasa Inggris ke dalam Bahasa Indonesia atau sebaliknya atau dari/ke bahasa apapun.
 
@@ -36,9 +36,7 @@ Penulisan esai dalam format pengetikannya tidak berbeda dengan format pengetikan
 
 #### Kutipan Dalam Teks/Paragraf
 
-Format dasar dalam pengutipan referensi dengan *APA Style 7^th^* adalah
-
-sebagai berikut:
+Format dasar dalam pengutipan referensi dengan *APA Style 7th* adalah sebagai berikut:
 
 (\<nama terakhir penulis\>, \<tahun\>: \<halaman\>).
 
@@ -48,7 +46,7 @@ sebagai berikut:
 
 #### Kutipan Langsung (\<40 Kata):
 
-Jika mengutip kata-kata atau kalimat yang dikemukakan penulis lain secara langsung (*Quotes)* tanpa memparafrase kalimat tersebut yang kurang dari 40 kata, maka format APA 7 seperti di bawah ini:
+Jika mengutip kata-kata atau kalimat yang dikemukakan penulis lain secara langsung (*Quotes)* tanpa memparafrase kalimat tersebut yang kurang dari 40 kata, maka format *APA 7th* seperti di bawah ini:
 
 Menurut Suryajaya (2009), "Kutipan langsung" (h. 26).
 
@@ -56,13 +54,14 @@ Menurut Suryajaya (2009), "Kutipan langsung" (h. 26).
 > 
 > Menurut Suryajaya (2009), "Kebijaksanaan itu adalah "Ilmu Pengetahuan" *(Wissenschaft)* yang, karena sifat absolutnya, tak bisa lagi masih tidak mengetahui sesuatu; Kebijaksanaan itu mestilah mengetahui segala sesuatu." (h. 26).
 > 
-> Suryajaya (2009) menyatakan bahwa "Kutipan langsung" (h. 26).
+
+Suryajaya (2009) menyatakan bahwa "Kutipan langsung" (h. 26).
 
 > [!warning] Contoh 2:
 > 
 > Suryajaya (2009) menyatakan bahwa "Kebijaksanaan itu adalah "Ilmu Pengetahuan" *(Wissenschaft)* yang, karena sifat absolutnya, tak bisa lagi masih tidak mengetahui sesuatu; Kebijaksanaan itu mestilah mengetahui segala sesuatu." (h. 26).
-> 
-> \[pernyataan\], "Kutipan Langsung" (Suryajaya, 2009: 26).
+
+\[pernyataan\], "Kutipan Langsung" (Suryajaya, 2009: 26).
 
 > [!warning] Contoh 3:
 > 
@@ -70,7 +69,7 @@ Menurut Suryajaya (2009), "Kutipan langsung" (h. 26).
 
 #### Kutipan Langsung (\>40 Kata):
 
-Jika mengutip kalimat dari penulis lain yang memiliki kata lebih dari 40 maka dapat dalam format *BlockQuote* pada kalimat yang dikutip langsung sebagaimana contoh di bawah:
+Jika mengutip kalimat dari penulis lain yang memiliki lebih dari 40 kata maka kutipan dapat dituliskan dalam format *BlockQuote* sebagaimana contoh di bawah:
 
 > [!warning] Contoh:
 > 
@@ -120,9 +119,9 @@ Mengutip dari tiga, lima, sembilan, atau lebih penulis hanya perlu menuliskan na
 
 Mengutip dari sebuah institusi atau bukan individu dapat dituliskan dengan menyebutkan nama grup, organisasi, atau institusi tersebut diikuti koma dan tahun. Tuliskan nama lengkap grup, organisasi, atau institusi tersebut pada pengutipan pertama, lalu singkatannya pada pengutipan berikutnya.
 
-[Kutipan Pertama:] World Health Organization, 2018)
+**Kutipan Pertama:** World Health Organization, 2018)
 
-[Kutipan berikutnya:] (WHO, 2018)
+**Kutipan berikutnya:** (WHO, 2018)
 
 > [!warning] Contoh:
 > 
@@ -164,7 +163,7 @@ Daftar pustaka yang bersumber dari buku, dapat menggunakan format berikut:
 
 #### Buku Dengan Penyunting Yang Berbeda Atau Penerjemah
 
-Jika mengutip sebuah buku yang memiliki penyunting yang berbeda ataupun penerjemah, maka gunakan format berikut ini:
+Jika referensi memiliki penyunting yang berbeda ataupun penerjemah, maka gunakan format berikut ini:
 
 \<nama belakang\>, \<depan penulis\>. \<tahun\>. *\<judul buku\>* (\<cetakan\>), \<penerjemah/penyunting\>. \<kota\>: \<penerbit\>.
 

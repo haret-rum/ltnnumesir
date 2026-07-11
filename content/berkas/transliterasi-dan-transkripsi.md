@@ -18,7 +18,7 @@ publish: true
 
 Transliterasi adalah penggantian huruf demi huruf berdasarkan aksara, dari satu abjad ke abjad lain secara langsung. Tujuannya untuk mempertahankan bentuk tulisan asli, bukan suara pengucapannya. Dengan kata lain, transliterasi bersifat *reversible* (dapat dikembalikan ke tulisan Arab) karena pemetaan hurufnya konsisten. Transliterasi sangat penting untuk kepentingan katalogisasi dan pengutipan sumber agar identitas huruf asli tetap terjaga.
 
-Adapun Transkripsi adalah penggantian yang disesuaikan dengan pelafalan atau bunyi ucapannya. Tujuannya untuk menggambarkan bagaimana suatu kata diucapkan. Transkripsi bersifat tidak reversible dan lebih beravariasi sesuai dengan bunyi bahasa sasaran.
+Adapun Transkripsi adalah penggantian yang disesuaikan dengan pelafalan atau bunyi ucapannya. Tujuannya untuk menggambarkan bagaimana suatu kata diucapkan. Transkripsi bersifat tidak *reversible* dan lebih beravariasi sesuai dengan bunyi bahasa sasaran.
 
 ## Pedoman Transliterasi dan Transkripsi
 
@@ -74,12 +74,12 @@ Adapun Transkripsi adalah penggantian yang disesuaikan dengan pelafalan atau bun
 
 #### Tanda Penghubung
 
-| Transliterasi | Transkripsi      |
-| ------------- | ---------------- |
-| Al Qur'an       | Al-Qur'an    |
-| Al Fātiḥah   | Al-Fātiḥah |
-| Al Kitāb     | Al-Kitāb  |
-| Al Kāfirūn   | Al-Kāfirūn  |
+| Pedoman lama | Pedoman baru |
+| ------------ | ------------ |
+| Al Qur'an    | Al-Qur'an    |
+| Al Fātiḥah   | Al-Fātiḥah   |
+| Al Kitāb     | Al-Kitāb     |
+| Al Kāfirūn   | Al-Kāfirūn   |
 
 ## Transliterasi dan Transkripsi Menggunakan Software
 
