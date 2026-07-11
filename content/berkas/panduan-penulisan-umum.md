@@ -61,13 +61,6 @@ Kutipan dengan lebih dari 40 kata dituliskan dalam format blockquote dengan ukur
 
 <p style="font-size: 11pt; font-family: 'EB Garamond', serif ; text-align: left; padding-left: 2em; line-height: 1.5; margin-top: 0; margin-bottom: 0;">Duis feugiat mi non fermentum egestas. Nam mollis pharetra nisi, et molestie magna eleifend sodales. Duis quis auctor turpis. Duis consectetur gravida volutpat. Praesent id erat eget tellus elementum rhoncus sit amet at ex. Integer sed diam et ex faucibus dapibus. Quisque laoreet massa id elit auctor molestie.</p>
 
-Contoh teks Arab dan terjemahannya:
-
-<p style="lang: ar; font-size: 14pt; font-family: 'Amiri' ; text-align: right; line-height: 1.5; margin-top: 0; margin-bottom: 0;">إنما الأعمال بالنيات وإنما لكل امرئ ما نوى</p>
-
-
-<p style="font-size: 11pt; font-family: 'EB Garamond', serif ; text-align: left; padding-left: 2em; line-height: 1.5; margin-top: 0; margin-bottom: 0;">"Sesungguhnya amal itu tergantung pada niatnya, sedangkan setiap orang akan mendapatkan sesuatu dengan yang diniatkannya." (HR. al-Bukhari dan Muslim)</p>
-
 <p style="text-align: left; font-family: 'EB Garamond', serif ; font-weight: bold; font-size: 16pt;">
     Bab X
 </p>
