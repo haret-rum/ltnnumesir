@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Libre Franklin
-      body: Noto Sans
+      header: Roboto Slab
+      body: Nunito
       code: IBM Plex Mono
       title: DM Sans
     colors:
