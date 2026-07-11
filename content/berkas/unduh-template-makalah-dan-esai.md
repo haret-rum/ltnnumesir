@@ -1,0 +1,15 @@
+---
+title: Unduh Template Makalah dan Esai
+description:
+permalink: unduh-template-makalah-dan-esai
+aliases:
+tags:
+socialImage:
+socialDescription:
+date: 2026-07-01
+publish: false
+---
+Unduh template 'docx' makalah/artikel ilmiah: ![[template-makalah.docx]]
+Unduh template 'docx' makalah/artikel ilmiah: ![[template-esai.docx]]
+
+Panduan rincinya ada di [[panduan-penulisan-umum|Panduan Penulisan]]
