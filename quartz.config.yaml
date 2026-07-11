@@ -232,8 +232,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Instagram: https://www.instagram.com/ltnnumesir?igsh=NDU2emVvdDFpcmZr
   - source: github:quartz-community/recent-notes
     enabled: true
     options:
