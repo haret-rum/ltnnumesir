@@ -5,6 +5,10 @@ permalink: transliterasi-dan-transkripsi
 aliases:
   - Penulisan Huruf Berdiakritik
 tags:
+  - panduan
+  - transliterasi
+  - transkripsi
+  - diakritik
 socialImage:
 socialDescription:
 date: 2026-07-11
@@ -59,14 +63,14 @@ Adapun Transkripsi adalah penggantian yang disesuaikan dengan pelafalan atau bun
 | Musnad al-Kabīr   | Musnadul Kabīr   |
 | Kitāb al-Miʿraj   | Kitābul Miʿraj   |
 
-Kata Sandang "AL"
+#### Kata Sandang "AL"
 
-| Transliterasi | Transkripsi      |
-| ------------- | ---------------- |
-| al-Dīn        | Ad-Dīn    |
-| al-Muntahā    | An-Nawawi |
-| al-Rahmān     | Ar-Rahmān  |
-| Al-Rāzī       | Ar-Rāzī  |
+| Transliterasi | Transkripsi |
+| ------------- | ----------- |
+| al-Dīn        | Ad-Dīn      |
+| al-Nawawī     | An-Nawawī   |
+| al-Rahmān     | Ar-Rahmān   |
+| Al-Rāzī       | Ar-Rāzī     |
 
 #### Tanda Penghubung
 
@@ -79,4 +83,4 @@ Kata Sandang "AL"
 
 ## Transliterasi dan Transkripsi Menggunakan Software
 
-Penulisan transliterasi dan transkripsi akan menjadi lebih mudah dengan menggunakan software. Selengkapnya dapat dirujuk [[di sini|penulisan-huruf-berdiakritik-dengan-software]].
+Penulisan transliterasi dan transkripsi akan menjadi lebih mudah dengan menggunakan software. Selengkapnya dapat dirujuk [[penulisan-huruf-berdiakritik-dengan-software|di sini]].

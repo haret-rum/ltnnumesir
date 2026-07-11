@@ -5,6 +5,9 @@ permalink: panduan-penyitiran-dengan-zotero
 aliases:
   - Kutipan dengan Zotero
 tags:
+  - panduan
+  - kutipan
+  - sitiran
 socialImage:
 socialDescription:
 date: 2026-07-11
@@ -13,7 +16,7 @@ publish: true
 
 ## Mengunduh Zotero
 
-Pertama, unduh aplikasi Zotero melalui link [Zotero \| Your personal research assistant](https://www.zotero.org/download/) kemudian install di desktop.
+Pertama, unduh aplikasi Zotero melalui link [berikut](https://www.zotero.org/download/) kemudian install di desktop.
 
 ![](Screenshot%20(120).png)
 

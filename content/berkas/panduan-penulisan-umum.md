@@ -4,6 +4,8 @@ description:
 permalink: panduan-penulisan-umum
 aliases:
   - Panduan Penulisan
+  - Panduan Penulisan Makalah
+  - Panduan Penulisan Esai
 tags:
   - panduan
 socialImage:

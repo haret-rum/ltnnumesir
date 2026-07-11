@@ -3,7 +3,12 @@ title: Sitiran dan Kutipan dalam Penulisan Esai/Opini
 description:
 permalink: sitiran-dan-kutipan-dalam-penulisan-esai-opini
 aliases:
+  - Sitiran dan Kutipan dalam Esai
+  - Sitiran dan Kutipan dalam Opini
 tags:
+  - panduan
+  - sitiran
+  - kutipan
 socialImage:
 socialDescription:
 date: 2026-07-11
@@ -15,13 +20,15 @@ Sitiran atau *citation* adalah tindak referensi (perujukan) kepada sumber-sumber
 
 Sitiran dan kutipan penting untuk mempermudah pembaca dalam melakukan penelusuran informasi terhadap sumber aslinya. Lebih dari itu, sitiran dan kutipan juga penting untuk menjelaskan bagaimana jaringan-jaringan pengetahuan itu dibangun melalui tulisan-tulisan yang saling terkait.
 
-Di samping itu, sitiran sangat penting untuk mencegah tindakan plagiat.
+Sitiran juga sangat penting untuk mencegah tindakan plagiat.
+
+Tentang bagaimana mengelola sitiran, kutipan dan referensi dengan Zotero dapat dibuka [[panduan-penyitiran-dengan-zotero|di sini]].
 
 ## Format Penulisan Sitiran Dalam Esai Dan Opini
 
 Penulisan esai dalam format pengetikannya tidak berbeda dengan format pengetikan makalah. Perbedaan keduanya hanya menyangkut penulisan sitiran dan daftar pustakanya saja. Berikut adalah ketentuan penulisan sitiran dalam esai/opini:
 
-- Penulisan sitasi dan rujukan dalam esai/opini dilakukan dengan **catatan perut** menggunakan model *APA Style 7th* untuk pengutipan, catatan perut , dan daftar pustaka.
+- Penulisan sitasi dan rujukan dalam esai/opini dilakukan dengan **catatan perut** menggunakan model *APA Style 7th* untuk pengutipan, catatan perut ,dan daftar pustaka.
 - Sangat dianjurkan menggunakan perangkat lunak *(software)* pengelola kutipan dan referensi, seperti: Mendeley, Zotero, dan Endnote (atau cukup dengan fitur sitasi word) untuk membuat catatan perut dan daftar pustaka.
 - Perlu dicatat bahwa, untuk keperluan kutipan dan bibliografi, nama, judul, penerbit, nama lembaga harus tetap menggunakan bahasa aslinya dan bahasa resminya. Tidak perlu menerjemahkan nama/gelar/institusi dari Bahasa Inggris ke dalam Bahasa Indonesia atau sebaliknya atau dari/ke bahasa apapun.
 

@@ -1,9 +1,14 @@
 ---
-title: Sitiran dan Kutipan dalam Penulisan Makalah
+title: Sitiran dan Kutipan dalam Penulisan Makalah/Artikel Ilmiah
 description:
 permalink: sitiran-dan-kutipan-dalam-penulisan-makalah
 aliases:
+  - Sitiran dan Kutipan Makalah
+  - Sitiran dan Kutipan Artikel Ilmiah
 tags:
+  - panduan
+  - sitiran
+  - kutipan
 socialImage:
 socialDescription:
 date: 2026-07-11
@@ -15,7 +20,9 @@ Sitiran atau *citation* adalah tindak referensi (perujukan) kepada sumber-sumber
 
 Sitiran dan kutipan penting untuk mempermudah pembaca dalam melakukan penelusuran informasi terhadap sumber aslinya. Lebih dari itu, sitiran dan kutipan juga penting untuk menjelaskan bagaimana jaringan-jaringan pengetahuan itu dibangun melalui tulisan-tulisan yang saling terkait.
 
-Di samping itu, sitiran sangat penting untuk mencegah tindakan plagiat.
+Sitiran juga sangat penting untuk mencegah tindakan plagiat.
+
+Tentang bagaimana mengelola sitiran, kutipan dan referensi dengan Zotero dapat dibuka [[panduan-penyitiran-dengan-zotero|di sini]].
 
 ## Format Penulisan Sitiran dalam Makalah/Artikel Ilmiah
 
@@ -28,7 +35,7 @@ Di samping itu, sitiran sangat penting untuk mencegah tindakan plagiat.
 >
 > 1. Husain Muruwwah, *Al-Nazʿāt al-Māddiyah fī al-Falsafah al-ʿArabiyah al-Islāmiyah*, 2 ed., vol. 1 (Beirut: Dār al-Fārābī, 2008), 55-59.
 > 2. *Husain Muruwwah*, 72.
-> 3. Muhammad Abid al-Jabiri*, Naḥnu wa al-Turāts* (Beirut: Dār
+> 3. Muhammad Abid al-Jabiri, *Naḥnu wa al-Turāts* (Beirut: Dār
 > al-Tanwīr li al-Thibāʿah wa al-Nasyr, 1985), 11-12.
 > 4. Husain Muruwwah, *Al-Nazʿāt al-Māddiyah fī al-Falsafah
 > al-ʿArabiyah al-Islāmiyah*, 1, 78.

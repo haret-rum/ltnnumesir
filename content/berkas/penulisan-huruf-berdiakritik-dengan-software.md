@@ -3,8 +3,13 @@ title: Penulisan Huruf Berdiakritik dengan Software
 description:
 permalink: penulisan-huruf-berdiakritik-dengan-software
 aliases:
-  - Penulisan Transliterasi dengan Software
+  - Penulisan Transliterasi dengan WinCompose
+  - Penulisan Transliterasi dengan MS Word
 tags:
+  - panduan
+  - diakritik
+  - transliterasi
+  - transkripsi
 socialImage:
 socialDescription:
 date: 2026-07-11
@@ -24,26 +29,26 @@ Beberapa huruf untuk keperluan transliterasi dan transkripsi memiliki penanda ta
 
 Untuk menuliskannya di desktop akan lebih mudah dengan dua cara berikut ini:
 
-1) Wincompose,
+1) WinCompose,
 2) MS Word.
 
-### Diakritik Menggunakan Wincompose
+### Diakritik Menggunakan WinCompose
 
-Pertama untuk menggunakan wincompose harus melakukan instalasi terlebih dahulu yang dapat diunduh [di sini](https://wincompose.info/).
+Pertama untuk menggunakan WinCompose harus melakukan instalasi terlebih dahulu yang dapat diunduh [di sini](https://WinCompose.info/).
 
 ![](Screenshot%20(121).png)
 
-Kedua, jika wincompose telah terinstall ia akan otomatis muncul di *system tray* sebagaimana ditunjukkan gambar berikut:
+Kedua, jika WinCompose telah terinstall ia akan otomatis muncul di *system tray* sebagaimana ditunjukkan gambar berikut:
 
 ![](Screenshot%20(114).png)
 
-Wincompose memungkinkan user untuk menuliskan huruf-huruf berdiakritik lewat komposisi tombol keyboard. Misalnya dalam penulisan ā dapat dilakukan dengan menekan tombol 
+WinCompose memungkinkan user untuk menuliskan huruf-huruf berdiakritik lewat komposisi tombol keyboard. Misalnya dalam penulisan ā dapat dilakukan dengan menekan tombol 
 
 `alt (kanan) + a + -` 
 
 ![](Screenshot%20(115).png)
 
-Tombol `alt (kanan)` dapat diganti dengan tombol apa pun lainnya dengan mengubahnya dengan klik kanan aplikasi Wincompose yang aktif di system tray kemudian klik `options`.
+Tombol `alt (kanan)` dapat diganti dengan tombol apa pun lainnya dengan mengubahnya dengan klik kanan aplikasi WinCompose yang aktif di system tray kemudian klik `options`.
 
 ![](Screenshot%20(118).png)
 
@@ -71,7 +76,7 @@ Setelah formula baru dituliskan klik `file` di kolom atas kemudian klik `save`, 
 
 ![](Screenshot%20(117).png)
 
-berbeda dengan penulisan melalui jalur kedua, yaitu melalui MS Word, setiap tombol pintasan yang telah didaftarkan dalam katalog Wincompose akan dapat aktif di aplikasi desktop apa pun sejauh Wincompose aktif di balik sistem.
+berbeda dengan penulisan melalui jalur kedua, yaitu melalui MS Word, setiap tombol pintasan yang telah didaftarkan dalam katalog WinCompose akan dapat aktif di aplikasi desktop apa pun sejauh WinCompose aktif di balik sistem.
 
 ### Diakritik Menggunakan MS Word
 
