@@ -72,7 +72,7 @@ Setiap gambar di badan tulisan harus diberi <u>di bawahnya</u> penomoran yang di
 
 Setiap gambar di badan tulisan harus diberi <u>di atasnya</u> penomoran yang disertai dengan judul gambar dengan format *italic*.
 
-<p><i>Tabel 1.1 Persegi Panjang</i></p>
+<p><i>Tabel 1.1 Klasifikasi Hewan</i></p>
 
 | Hewan   | Berakal |
 | ------- | ------- |
