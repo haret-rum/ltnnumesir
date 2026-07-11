@@ -20,6 +20,7 @@ configuration:
       body: Nunito
       code: IBM Plex Mono
       title: DM Sans
+      interface: Sen
     colors:
       lightMode:
         light: "#faf8f8"
