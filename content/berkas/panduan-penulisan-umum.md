@@ -74,7 +74,7 @@ Setiap gambar di badan tulisan harus diberi <u>di bawahnya</u> penomoran yang di
     <i>Gambar 1.1 Persegi Panjang</i>
 </p>
 
-Setiap gambar di badan tulisan harus diberi <u>di atasnya</u> penomoran yang disertai dengan judul gambar dengan format *italic*.
+Setiap tabel di badan tulisan harus diberi <u>di atasnya</u> penomoran yang disertai dengan judul tabel dengan format *italic*.
 
 <p style="text-align: left; font-family: 'EB Garamond', serif ; font-size: 12pt;">
     <i>Tabel 1.1 Klasifikasi Hewan</i>
