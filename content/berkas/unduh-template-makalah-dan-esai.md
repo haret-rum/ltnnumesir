@@ -4,10 +4,11 @@ description:
 permalink: unduh-template-makalah-dan-esai
 aliases:
 tags:
+  - template
 socialImage:
 socialDescription:
 date: 2026-07-01
-publish: false
+publish: true
 ---
 Unduh template 'docx' makalah/artikel ilmiah: ![[template-makalah.docx]]
 Unduh template 'docx' makalah/artikel ilmiah: ![[template-esai.docx]]
