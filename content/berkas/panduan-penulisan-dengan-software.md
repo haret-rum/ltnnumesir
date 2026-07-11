@@ -7,7 +7,7 @@ tags:
 socialImage:
 socialDescription:
 date: 2026-07-11
-draft: false
+publish: true
 ---
 # Panduan Penulisan Dengan Software
 

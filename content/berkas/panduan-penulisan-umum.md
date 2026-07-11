@@ -9,7 +9,7 @@ tags:
 socialImage:
 socialDescription:
 date: 2026-07-11
-draft: false
+publish: true
 ---
 
 # Panduan Penulisan Makalah
@@ -38,7 +38,7 @@ Rincian format pengetikan dapat dijelaskan sebagaimana berikut ini:
 Ditulis dalam font EB Garamond 18 pt, Bold, dan di tengah halaman. Judul makalah harus dapat menggambarkan objek dan ruang lingkup yang akan dibahas dan usahakan tidak lebih dari 8 kata.
 
 > [!info]
-> Download font EB Garamond [disini](https://fonts.google.com/specimen/EB+Garamond).
+> Download font EB Garamond [di sini](https://fonts.google.com/specimen/EB+Garamond).
 
 <p style="text-align: center; font-style: italic; font-size: 12pt;">[Nama Penulis 1] dan [Nama Penulis 2]<br/>
 [nama fakultas, nama universitas penullis 1]<br/>
@@ -53,7 +53,7 @@ Penulisan nama diletakkan langsung di bawah judul, menggunakan font EB Garamond 
 
 Judul prolog ditulis dalam EB Garamond 16 pt, Bold, *align left.*
 
-Badan tullisan ditulis dalam EB Garamond 12 pt, Justify, penulisan antar paragraf menyertakan tambahan spasi sesudah (space after paragraph), spasi 1.15. Penulisan Arab menggunakan font Amiri 14 pt. Keseluruhan bagian teks artikel harus ditulis dengan mengikuti ketentuan ini.[^1]
+Badan tullisan ditulis dalam EB Garamond 12 pt, Justify, penulisan antar paragraf menyertakan tambahan spasi sesudah (space after paragraph), spasi 1.15. Penulisan Arab menggunakan font Amiri 14 pt. Keseluruhan bagian teks artikel harus ditulis dengan mengikuti ketentuan ini.
 
 > [!INFO]
 > Download font Amiri [di sini](https://fonts.google.com/specimen/Amiri).
@@ -64,7 +64,7 @@ Kutipan atau *quote* ditulis seperti badan tulisan hanya saja menjorok dan ditul
     Bab X
 </p>
 
-Bab berisi analisa dan diskusi. Judul bab seperti halnya judul prolog ditulis dalam EB Garamond 16 pt, Bold. Setiap bab juga dapat ditulisan dengan penomoran huruf dengan alfabet kapital, dan dapat diberi nama dengan cara apa pun yang dianggap efektif.
+Bab berisi analisa dan diskusi. Judul bab seperti halnya judul prolog dtulis dalam EB Garamond 16 pt, Bold. Setiap bab juga dapat ditulisan dengan penomoran huruf dengan alfabet kapital, dan dapat diberi nama dengan cara apa pun yang dianggap efektif.
 
 <p style="text-align: left; font-weight: bold; font-size: 14pt;">
     Sub-Bab M
@@ -87,6 +87,8 @@ Daftar pustaka mengikuti ketentuan dalam *Chicago Style 17th (notes-bibliography
 <p style="font-size: 12pt; text-align: left; padding-left: 2em; text-indent: -2em; line-height: 1.5; margin-top: 0; margin-bottom: 0;">
     Daftar pustaka ditulis dalam font EB Garamond 12 pt, rata kiri, menjorok ke dalam di baris setelah pertama, spasi 1.15, tanpa tambahan spasi <i>(remove before and after paragraph).</i>
 </p>
+
+<p style="font-size: 10pt; text-align: left;"> <sub>1</sub> Catatan kaki menggunakan font EB Garamond 10, rata kiri (align left), spasi 1.0. Catatan kaki ditulis berdasarkan kaidah Chicago Style 17th (notes-bibliography).</p>
 
 ## Transliterasi Dan Transkripsi
 
@@ -483,4 +485,4 @@ Jika mengutip sumber dari sebuah laman web, gunakan format berikut ini:
 > 
 > Suaedy, Ahmad. 2021, 1 Juli. *Respons Agama terhadap Perubahan Masyarakat di Era Disrupsi dan Post-Truth: Merencanakan Jawaban Masa Depan Indonesia*. https://fin.unusia.ac.id/respons-agama-terhadap-perubahan-masyarakat-di-era-disrupsi-dan-post-truth-merencanakan-jawaban-masa-depan-Indonesia/
 
-[^1]: Catatan kaki menggunakan font EB Garamond 10, rata kiri (align left), spasi 1.0. Catatan kaki ditulis berdasarkan kaidah Chicago Style 17th (notes-bibliography).
+
