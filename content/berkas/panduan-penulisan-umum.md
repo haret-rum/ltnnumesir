@@ -52,14 +52,14 @@ Penulisan nama diletakkan langsung di bawah judul, menggunakan font EB Garamond 
 
 Judul prolog ditulis dalam EB Garamond 16 pt, Bold, *align left.* Prolog ditulis hanya pada makalah/artikel ilmiah.
 
-Badan tulisan ditulis dalam EB Garamond 12 pt, *justify*, penulisan antar paragraf menyertakan tambahan spasi sesudah (*space after paragraph*), spasi 1.15. Penulisan Arab menggunakan font Amiri 14 pt. Keseluruhan bagian teks artikel harus ditulis dengan mengikuti ketentuan ini.
+<p style="font-size: 12pt; font-family: 'EB Garamond', serif ; text-align: justify; line-height: 1.5; margin-top: 0; margin-bottom: 0;">Badan tulisan ditulis dalam EB Garamond 12 pt, <i>justify</i>, penulisan antar paragraf menyertakan tambahan spasi sesudah (<i>space after paragraph</i>), spasi 1.15. Penulisan Arab menggunakan font Amiri 14 pt. Keseluruhan bagian teks artikel harus ditulis dengan mengikuti ketentuan ini.</p>
 
 > [!INFO]
 > Download font Amiri [di sini](https://fonts.google.com/specimen/Amiri).
 
 Kutipan dengan lebih dari 40 kata dituliskan dalam format blockquote dengan ukuran font 11 pt.
 
-<p style="font-size: 11pt; font-family: 'EB Garamond', serif ; text-align: left; padding-left: 2em; line-height: 1.5; margin-top: 0; margin-bottom: 0;">Duis feugiat mi non fermentum egestas. Nam mollis pharetra nisi, et molestie magna eleifend sodales. Duis quis auctor turpis. Duis consectetur gravida volutpat. Praesent id erat eget tellus elementum rhoncus sit amet at ex. Integer sed diam et ex faucibus dapibus. Quisque laoreet massa id elit auctor molestie.</p>
+<p style="font-size: 11pt; font-family: 'EB Garamond', serif ; text-align: justify; padding-left: 2em; line-height: 1.5; margin-top: 0; margin-bottom: 0;">Duis feugiat mi non fermentum egestas. Nam mollis pharetra nisi, et molestie magna eleifend sodales. Duis quis auctor turpis. Duis consectetur gravida volutpat. Praesent id erat eget tellus elementum rhoncus sit amet at ex. Integer sed diam et ex faucibus dapibus. Quisque laoreet massa id elit auctor molestie.</p>
 
 <p style="text-align: left; font-family: 'EB Garamond', serif ; font-weight: bold; font-size: 16pt;">
     Bab X

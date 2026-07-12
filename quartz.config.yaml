@@ -234,7 +234,7 @@ plugins:
       links:
         instagram: https://www.instagram.com/ltnnumesir?igsh=NDU2emVvdDFpcmZr
   - source: github:quartz-community/recent-notes
-    enabled: true
+    enabled: false
     options:
       title: "Tulisan Terbaru"
       limit: 3
