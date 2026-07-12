@@ -69,7 +69,7 @@ Adapun Transkripsi adalah penggantian yang disesuaikan dengan pelafalan atau bun
 | ------------- | ----------- |
 | al-Dīn        | Ad-Dīn      |
 | al-Nawawī     | An-Nawawī   |
-| al-Rahmān     | Ar-Rahmān   |
+| al-Raḥmān     | Ar-Raḥmān   |
 | Al-Rāzī       | Ar-Rāzī     |
 
 #### Tanda Penghubung
@@ -79,7 +79,7 @@ Adapun Transkripsi adalah penggantian yang disesuaikan dengan pelafalan atau bun
 | Al Qur'an    | Al-Qur'an    |
 | Al Fātiḥah   | Al-Fātiḥah   |
 | Al Kitāb     | Al-Kitāb     |
-| Al Kāfirūn   | Al-Kāfirūn   |
+| Al Ḥamdu     | Al-Ḥamdu     |
 
 ## Transliterasi dan Transkripsi Menggunakan Software
 
