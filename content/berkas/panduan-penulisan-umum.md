@@ -20,7 +20,7 @@ Tata cara penulisan baik dalam makalah/artikel ilmiah atau esai/opini meliputi u
 Ukuran Kertas yang digunakan adalah A4 (297 x 210 mm) dengan batas tepi sebagai berikut:
 
 1. tepi atas: 2 cm,
-2. tepi bawah: 2 cm.
+2. tepi bawah: 2 cm,
 3. tepi kiri: 2 cm,
 4. tepi kanan: 2 cm.
 
