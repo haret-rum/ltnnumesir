@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: LTNNU Mesir
-  pageTitleSuffix: "Lembaga Ta'lif wan Nasyr"
+  pageTitleSuffix: " | Lembaga Ta'lif wan Nasyr"
   enableSPA: true
   enablePopovers: true
   analytics:
