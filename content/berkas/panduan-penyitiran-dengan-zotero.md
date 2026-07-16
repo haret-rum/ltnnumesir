@@ -20,7 +20,8 @@ Pertama, unduh aplikasi Zotero melalui link [berikut](https://www.zotero.org/dow
 
 ![](Screenshot%20(120).png)
 
-Sebagai pelengkap dan alat memudahkan memindah referensi dari peramban yang digunakan (chrome, firefox, safari) dapat diinstall juga Zotero Connector.
+> [!tip] Tips
+> Sebagai pelengkap, Zotero Connector dapat pula diinstall untuk memudahkan pemindahan referensi dari peramban yang digunakan (chrome, firefox, safari) ke katalog referensi Zotero.
 
 ## Interface Zotero
 
@@ -28,11 +29,11 @@ Zotero terdiri dari tiga panel utama:
 
 ![](Screenshot%20(122).png)
 
-Panel kiri: berisi struktur koleksi referensi. Setiap folder menunjukkan pengelompokan referensi tersebut. Di bagian bawahnya terdapat tag (penanda) untuk memudahkan proses pencarian berdasarkan tag tersebut.
+**Panel kiri:** berisi struktur koleksi referensi. Setiap folder menunjukkan pengelompokan referensi tersebut. Di bagian bawahnya terdapat tag (penanda) untuk memudahkan proses pencarian berdasarkan tag tersebut.
 
-Panel tengah: berisi daftar referensi yang terdaftar di katalog Zotero tersebut. Daftar referensi yang ditampilkan di panel tengah merujuk pada struktur koleksi yang aktif di panel kiri.
+**Panel tengah:** berisi daftar referensi yang terdaftar di katalog Zotero tersebut. Daftar referensi yang ditampilkan di panel tengah merujuk pada struktur koleksi yang aktif di panel kiri.
 
-Panel kanan: berisi detail informasi yang merupakan data bibliografi dari referensi yang aktif di panel tengah. 
+**Panel kanan:** berisi detail informasi yang merupakan data bibliografi dari referensi yang aktif di panel tengah. 
 
 ## Menambahkan Referensi
 
@@ -65,6 +66,12 @@ Kemudian klik `Create citation` dalam kolom informasi buku tersebut dan pilih fo
 jika Zotero Connector terpasang di peramban, maka segera muncul *pop-up* secara otomatis di pojok kanan atas peramban. 
 
 ![](Screenshot%20(164).png)
+
+> [!warning] Peringatan
+> Zotero Connector di peramban dapat aktif dengan dua cara:
+> 
+> 1. offline: dengan syarat aplikasi Zotero pada desktop aktif
+> 2. online: dengan syarat sudah *login* ke akun Zotero secara *online* di peramban.
 
 Setelah *pop-up* tersebut muncul, dapat diubah tempat penyimpanannya di folder lain, juga dapat ditambahkan catatan tertentu yang nanti akan tertaut dengan referensi tersebut.
 
@@ -158,7 +165,10 @@ kemudian tekan tombol `add/edit citation` pada toolbar atas LibreOffice.
 
 ![](Screenshot%20(131)-1.png)
 
-Setelah itu, tentukan terlebih dahulu *citation style* yang akan digunakan dalam naskah (misal Chicago Style 17 notes-bibliography) lalu klik `OK`. Langkah ini hanya dilakukan cukup satu kali saja.
+Setelah itu, tentukan terlebih dahulu *citation style* yang akan digunakan dalam naskah (misal Chicago Style 17 notes-bibliography) lalu klik `OK`. 
+
+> [!note] Catatan
+> Langkah ini hanya dilakukan cukup satu kali saja.
 
 ![](Screenshot%20(133).png)
 
