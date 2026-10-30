@@ -20,6 +20,9 @@ Dewan redaksi Afkār menerima makalah dan esai ilmiah yang berkaitan dengan kaji
 
 Naskah yang dikirimkan ke Afkār akan melalui proses penyuntingan secara *blind-review*. Konfirmasi diterimanya naskah akan dikabarkan via chat whatsapp oleh asisten redaksi sesuai dengan tanggal yang ditentukan.
 
+> [!Info]
+> Versi PDF dapat diunduh di [sini](https://drive.google.com/file/d/19_11UeHzA1GGaC-OWVSoqy9LB6wr6M0x/view?usp=sharing)
+
 ### Alamat Pengiriman Naskah
 
 Naskah dikirimkan ke alamat email kami ltnnumesir@gmail.com. Di samping naskah, penulis wajib melampirkan dokumen yang berisikan data diri yang berisikan:
