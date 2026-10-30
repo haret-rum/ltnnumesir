@@ -84,9 +84,6 @@ Berikut ini adalah rincian format dan demonstrasinya (dalam warna <span style="c
 
 Ditulis dalam font Times New Roman 18 pt, Bold, dan di tengah halaman. Judul makalah harus dapat menggambarkan objek dan ruang lingkup yang akan dibahas dan usahakan tidak lebih dari 8 kata.
 
-> [!info]
-> Download font Times New Roman [disini](https://fonts.google.com/specimen/EB+Garamond).
-
 <p style="font-family: ‘Times New Roman’, Times, Serif; text-align: center; font-style: italic; font-size: 12pt; color: blue;">[Nama Penulis 1] dan [Nama Penulis 2]<br/>
 [nama fakultas, nama universitas penullis 1]<br/>
 [nama fakultas, nama universitas penullis 2]
