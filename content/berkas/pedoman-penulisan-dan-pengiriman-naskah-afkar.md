@@ -20,12 +20,13 @@ Dewan redaksi Afkār menerima makalah dan esai ilmiah yang berkaitan dengan kaji
 
 Naskah yang dikirimkan ke Afkār akan melalui proses penyuntingan secara *blind-review*. Konfirmasi diterimanya naskah akan dikabarkan via chat whatsapp oleh asisten redaksi sesuai dengan tanggal yang ditentukan.
 
-> [!Info]
-> Versi PDF dapat diunduh di [sini](https://drive.google.com/file/d/19_11UeHzA1GGaC-OWVSoqy9LB6wr6M0x/view?usp=sharing)
-
 ### Alamat Pengiriman Naskah
 
-Naskah dikirimkan ke alamat email kami ltnnumesir@gmail.com. Di samping naskah, penulis wajib melampirkan dokumen yang berisikan data diri yang berisikan:
+Naskah dikirimkan ke alamat email kami ltnnumesir@gmail.com. Di samping naskah, penulis wajib melampirkan dokumen berikut.
+
+**File .bib** yang diekspor dari pustaka Zotero yang digunakan penulis.
+
+**Data diri** yang berisikan:
 
 1. nama lengkap,
 2. jurusan dan universitas,
@@ -64,7 +65,7 @@ Tidak ada tema secara khusus. Kontributor bebas menulis makalah dan artikel ilmi
 - Naskah ditulis dalam bentuk docx atau md. Silahkan lihat [template yang telah disediakan](https://drive.google.com/drive/folders/1LJHcWwRGHZPn4sot2dgogvcnc3on5qJR)
 - Bahasa asing yang telah diserap dalam Bahasa Indonesia ditulis dengan Bahasa Indonesia sesuai dengan Kamus Besar Bahasa Indonesia (KBBI) kecuali ditulis menggunakan kaidah transliterasi dan transkripsi.
 - Tulisan berjumlah 2500-5000 kata, tidak termasuk catatan kaki dan daftar pustaka.
-- Catatan kaki dan daftar pustaka ditulis dengan *Chicago Style 17th (footnotes and bibliography*
+- Catatan kaki dan daftar pustaka ditulis berasarkan gaya *Chicago Style 17th (footnotes and bibliography)* dengan Zotero.
 - Daftar pustaka tidak perlu memiliki sub-bagian yang mengkategorikan jenis-jenis pustaka, melainkan hanya diurutkan berdasarkan abjad.
 - Gelar akademis tidak boleh ditulis dalam daftar pustaka, teks atau catatan kaki.
 - Pada tubuh tulisan, jangan gunakan huruf tebal (bold) atau garis bawah, batasi penggunaan huruf miring (italic) yang sebaiknya hanya digunakan untuk penekanan terbatas pada istilah kunci.
