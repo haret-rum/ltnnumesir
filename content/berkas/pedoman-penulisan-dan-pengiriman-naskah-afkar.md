@@ -15,10 +15,15 @@ publish: true
 toc: true
 ---
 
-
-Dewan redaksi Afkār menerima makalah dan esai ilmiah yang berkaitan dengan kajian dan pemikiran, khususnya keislaman. Selain itu, kami juga mendorong korespondensi terhadap makalah dan esai ilmiah yang pernah diterbitkan di edisi sebelumnya. 
+Dewan redaksi Afkār menerima makalah dan esai ilmiah yang berkaitan dengan kajian dan pemikiran, khususnya keislaman. Selain itu, kami juga mendorong korespondensi terhadap makalah dan esai ilmiah yang pernah diterbitkan di edisi sebelumnya.
 
 Naskah yang dikirimkan ke Afkār akan melalui proses penyuntingan secara *blind-review*. Konfirmasi diterimanya naskah akan dikabarkan via chat whatsapp oleh asisten redaksi sesuai dengan tanggal yang ditentukan.
+
+
+> [!INFO] 
+> Versi PDF dari pedoman ini dapat diunduh [di sini](https://drive.google.com/drive/folders/1LJHcWwRGHZPn4sot2dgogvcnc3on5qJR).
+
+
 
 ### Alamat Pengiriman Naskah
 
@@ -31,7 +36,7 @@ Naskah dikirimkan ke alamat email kami ltnnumesir@gmail.com. Di samping naskah, 
 1. nama lengkap,
 2. jurusan dan universitas,
 3. alamat email,
-4. nomor whatsapp atau telefon yang aktif. 
+4. nomor whatsapp atau telefon yang aktif.
 
 ### Salinan Ulang
 
@@ -45,15 +50,15 @@ Tidak ada tema secara khusus. Kontributor bebas menulis makalah dan artikel ilmi
 
 **Kajian Utama**, berisikan makalah atau artikel ilmiah dengan subjek kajian dan pemikiran Islam. Ini mencakup:
 
-- pemikiran Islam kontemporer
-- Islam dan isu gender
-- Ilmu Kalam dan Teologi
-- Filsafat Islam
-- Usul Fikih dan Maqāshid Syarīʿah
-- Fikih 
-- Akhlak dan Tasawwuf
-- Tafsir dan ʿUlumul Qur’an
-- Hadis dan ʿUlumul Hadis
+- pemikiran islam kontemporer
+- islam dan isu gender
+- ilmu kalam dan teologi
+- filsafat islam
+- usul fikih dan maqāshid syarīʿah
+- fikih
+- akhlak dan tasawwuf
+- tafsir dan ʿulumul qur’an
+- hadis dan ʿulumul hadis
 
 **Kajian Lepas**, berisikan makalah atau artikel ilmiah dengan subjek pemikiran secara umum selain keislaman.
 
@@ -73,10 +78,8 @@ Tidak ada tema secara khusus. Kontributor bebas menulis makalah dan artikel ilmi
 
 ### Pengetikan Isi Tulisan
 
-
-> [!Warning] 
-> Aturan ini hanya berlaku jika Anda menulis dalam format docx.
-
+> [!Warning]
+> Aturan ini hanya berlaku jika naskah ditulis dalam format docx.
 
 Isi tulisan terdiri dari beberapa bagian dengan format pengetikan seperti telah dicontohkan melalui [template](https://drive.google.com/drive/folders/1LJHcWwRGHZPn4sot2dgogvcnc3on5qJR).
 
@@ -116,6 +119,7 @@ Bab berisi analisa dan diskusi. Judul bab seperti halnya judul prolog ditulis da
 Setiap gambar di badan tulisan harus diberi <u>di bawahnya</u> penomoran yang disertai dengan judul gambar dengan format *italic*.
 
 ![[Pasted image 20260711110154.png]]
+
 <p style="text-align: left; font-family: 'Times New Roman', serif ; font-size: 12pt; color: blue;">
     <i>Gambar 1.1 Persegi Panjang</i>
 </p>
@@ -153,7 +157,7 @@ Daftar pustaka mengikuti ketentuan dalam *Chicago Style 17th (notes-bibliography
     Daftar pustaka ditulis dalam font Times New Roman 12 pt, rata kiri, menjorok ke dalam di baris setelah pertama <i>(hanging indent</i>), spasi 1.15, tanpa tambahan spasi (<i>remove before and after paragraph</i>).
 </p>
 
-<p style="font-family: ‘Times New Roman’, Times, Serif; font-size: 9pt; text-align: left">
+<p style="font-family: ‘Times New Roman’, Times, Serif; font-size: 9pt; text-align: left; color: blue">
 <sup>1</sup> Catatan Kaki ditulis dalam font Times New Roman 9 pt, spasi 1.15, tanpa tambahan spasi (<i>remove before and after paragraf</i>).
 </p>
 
@@ -172,10 +176,10 @@ Adapun Transkripsi adalah penggantian yang disesuaikan dengan pelafalan atau bun
 | أ   | a   | د   | d   | ض   | dh  | ك   | k   |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ب   | b   | ذ   | dz  | ط   | th  | ل   | l   |
-| ت   | t   | ر   | r   | ظ   | dz  | م   | m   |
-| ث   | ts  | ز   | z   | ع   |  ʿ   | ن   | n   |
+| ت   | t   | ر   | r   | ظ   | zh  | م   | m   |
+| ث   | ts  | ز   | z   | ع   | ʿ   | ن   | n   |
 | ج   | j   | س   | s   | غ   | gh  | و   | w   |
-| ح   | ḥ    | ش   | sy  | ف   | f   | ه   | h   |
+| ح   | ḥ   | ش   | sy  | ف   | f   | ه   | h   |
 | خ   | kh  | ص   | sh  | ق   | q   | ي   | y   |
 
 ##### Vokal
@@ -263,7 +267,7 @@ Di samping itu, sitiran sangat penting untuk mencegah tindakan plagiat.
 > [!warning] Contoh:
 >
 > Muhammad Abid al-Jabiri, *Naḥnu wa al-Turāts* (Beirut: Dār al-Tanwīr li al-Thibāʿah wa al-Nasyr, 1985), 11-12.
-> 
+>
 > Nicos Ar Poulantzas, *Political power and social classes* (London: NLB, 1975), 176.
 
 ###### Daftar Pustaka
@@ -273,9 +277,9 @@ Di samping itu, sitiran sangat penting untuk mencegah tindakan plagiat.
 Contoh:
 
 > [!warning] Contoh
-> 
-> al-Jabiri, Muhammad Abid. *Naḥnu Wa Al-Turāts*. Beirut: Dār al-Tanwīr li al-Thibāʿah wa al-Nasyr, 1985. 
-> 
+>
+> al-Jabiri, Muhammad Abid. *Naḥnu Wa Al-Turāts*. Beirut: Dār al-Tanwīr li al-Thibāʿah wa al-Nasyr, 1985.
+>
 > Poulantzas, Nicos Ar. *Political Power and Social Classes*. London: NLB, 1975.
 
 ##### Artikel Jurnal
@@ -284,12 +288,12 @@ Contoh:
 
 ‹nama penulis›. "‹judul›", ‹nama jurnak› ‹volume›, ‹nomor› (‹bulan, tahun›): ‹nomor halaman›. ‹doi atau alamat url›.
 
-> [!warning] Contoh: 
-> 
+> [!warning] Contoh:
+>
 > Yoav Di-Capua, \"Homeward Bound: Ḥusayn Muruwwah's Integrative Quest for Authenticity,\" *Journal of Arabic Literature* 44, no. 1 (01 Jan. 2013 2013): 21-52, https://doi.org/https://doi.org/10.1163/1570064x-12341255.
-> 
+>
 > Shao-Hsun Keng, Chun-Hung Lin, and Peter F. Orazem, "Expanding College Access in Taiwan, 1978--2014: Effects on Graduate Quality and Income Inequality," *Journal of Human Capital* 11, no. 1 (Spring 2017): 9--10, <https://doi.org/10.1086/690235>.
-> 
+>
 > Peter LaSalle, "Conundrum: A Story about Reading," *New England Review* 38, no. 1 (2017): 95.
 
 ###### Daftar Pustaka
@@ -297,11 +301,11 @@ Contoh:
 ‹nama belakang, nama depan penulis›. "‹judul›", ‹*nama jurnal*› ‹volume›, ‹nomor› (‹bulan, tahun›): ‹rentang halaman artikel›. ‹doi atau alamat url›.
 
 > [!warning] Contoh:
-> 
+>
 > Di-Capua, Yoav. \"Homeward Bound: Ḥusayn Muruwwah's Integrative Quest for Authenticity.\" *Journal of Arabic Literature* 44, no. 1 (01 Jan. 2013 2013): 21-52. <https://doi.org/https://doi.org/10.1163/1570064x-12341255>.
-> 
+>
 > Keng, Shao-Hsun, Chun-Hung Lin, dan Peter F. Orazem. "Expanding College Access in Taiwan, 1978--2014: Effects on Graduate Quality and Income Inequality." *Journal of Human Capital* 11, no. 1 (Spring 2017): 1--34. <https://doi.org/10.1086/690235>.
-> 
+>
 > LaSalle, Peter. "Conundrum: A Story about Reading." *New England Review* 38, no. 1 (2017): 95--109.
 
 ##### Tesis/disertasi
@@ -311,19 +315,19 @@ Contoh:
 ‹nama penulis›. "‹judul›" (‹(tesis/disertasi)›, ‹institusi›, ‹tahun›), ‹nomor halaman›.
 
 > [!warning] Contoh:
-> 
-> Sudikno Mertokusumo, "Sejarah Peradilan dan Perundang-undangannya di Indonesia Sejak 1942 dan Apa Kemanfaatannya bagi Indonesia" (Disertasi Program Doktor, Universitas Gadjah Mada, 1971), 50. 
-> 
+>
+> Sudikno Mertokusumo, "Sejarah Peradilan dan Perundang-undangannya di Indonesia Sejak 1942 dan Apa Kemanfaatannya bagi Indonesia" (Disertasi Program Doktor, Universitas Gadjah Mada, 1971), 50.
+>
 > Cynthia Lillian Rutz, "King Lear and Its Folktale Analogues" (PhD diss., University of Chicago, 2013), 99--100.
 
 ###### Daftar Pustaka
 
 ‹author's last name, first name›. "‹title›", ‹(thesis/dissertation)›, ‹institution›, ‹year›.
 
-> [!warning] Contoh: 
-> 
+> [!warning] Contoh:
+>
 > Mertokusumo, Sudikno. "Sejarah Peradilan dan Perundang-undangannya di Indonesia Sejak 1942 dan Apa Kemanfaatannya bagi Indonesia", Disertasi Program Doktor, Universitas Gadjah Mada, 1971.
-> 
+>
 > Rutz, Cynthia Lillian. "King Lear and Its Folktale Analogues", PhD diss., University of Chicago, 2013.
 
 ##### Artikel dalam Antologi dengan Editor
@@ -333,7 +337,7 @@ Contoh:
 ‹nama penulis›. "‹judul artikel›" dalam ‹judul buku›, ed. ‹nama editor›. (‹tempat terbit›: ‹penerbit›, ‹tahun›), ‹nomor halaman)›.
 
 > [!warning] Contoh:
-> 
+>
 > Plato, "The Apology of Socrates," dalam The Norton Anthology of World Masterpieces, ed. Mack Maynard (New York: Norton, 1985), 817.
 
 ###### Daftar Pustaka
@@ -341,7 +345,7 @@ Contoh:
 ‹nama belakang, nama depan penulis›."‹judul artikel›" dalam ‹*judul buku*›, diedit oleh ‹nama editor›, ‹rentang halaman artikel›, ‹tempat terbit›: ‹penerbit›, ‹tahun›.
 
 > [!warning] Contoh:
-> 
+>
 > Plato. "The Apology of Socrates." dalam *The Norton Anthology of World Masterpieces*, diedit oleh Mack Maynard, 816-838. New York: Norton, 1985.
 
 ##### Artikel Majalah atau Koran
@@ -350,10 +354,10 @@ Contoh:
 
 ‹nama penulis›. "‹judul artikel›", ‹*nama majalah/koran*›, ‹tanggal terbit›, ‹ alamat URL›, ‹nomor halaman›.
 
-> [!warning] Contoh: 
-> 
+> [!warning] Contoh:
+>
 > Rebecca Mead, "The Prophet of Dystopia," *New Yorker*, 17 April 2017, 43.
-> 
+>
 > Farhad Manjoo, "Snap Makes a Bet on the Cultural Supremacy of the Camera," *New York Times*, 8 Maret 2017, https://www.nytimes.com/2017/03/08/technology/snap-makes-a-bet-on-the-cultural-supremacy-of-the-camera.html.
 
 ###### Daftar Pustaka
@@ -361,9 +365,9 @@ Contoh:
 ‹nama belakang, nama depan penulis›. "‹judul artikel›", ‹*nama majalah/koran*›, ‹tanggal terbit›, ‹alamat URL›.
 
 > [!warning] Contoh:
-> 
+>
 > Manjoo, Farhad. "Snap Makes a Bet on the Cultural Supremacy of the Camera." *New York Times*, 8 March 2017. [https://www.nytimes.com/2017/03/08/technology/snap-makes-a-bet-on-the-cultural-supremacy-of-the-camera.html.](../Documents/Simple%20Sticky%20Notes)
-> 
+>
 > Mead, Rebecca. "The Prophet of Dystopia." *New Yorker*, 17 April 2017.
 
 ##### Internet
@@ -373,7 +377,7 @@ Contoh:
 ‹nama penulis/pemilik website›. "‹judul artikel›", ‹alamat url› (diakses ‹tanggal akses›).
 
 > [!warning] Contoh:
-> 
+>
 > Ahmad Faishol Abimanyu, \"Posisi Turas Arab-Islam Pasca-Kekalahan '67,\" Arsipin.site. <https://arsipin.site/2023/08/09/posisi-turas-arab-islam-pasca-kekalahan-67/>. (diakses 16 Agustus 2023).
 
 ###### Daftar Pustaka
@@ -382,5 +386,5 @@ Contoh:
 
 > [!warning] Contoh:
 > Ahmad Faishol Abimanyu, \"Posisi Turas Arab-Islam Pasca-Kekalahan '67,\" Arsipin.site. <https://arsipin.site/2023/08/09/posisi-turas-arab-islam-pasca-kekalahan-67/>. (diakses 16 Agustus 2023).
-> 
+>
 > Smith, John. "Obama inaugurated as President." CNN.com. <http://www.cnn.com/POLITICS/01/21/obama_inaugurated/index.html> (diakses 1 Februari 2009).
